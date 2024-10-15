@@ -1,6 +1,6 @@
 # In-context Contrastive Learning for Event Causality Identification
 
-This is the code of the paper _Identifying while Learning for Document Event Causality Identification_. Accepted by EMNLP 2024.
+This is the code of the paper _In-context Contrastive Learning for Event Causality Identification_. Accepted by EMNLP 2024.
 
 We propose an **I**n-**C**ontext **C**ontrastive **L**earning (**ICCL**) model for the ECI task. We leverage the causality knowledge of PLM by introducing explicit guidance through the inclusion of demonstrations, rather than relying on the design of complex prompts.
 
